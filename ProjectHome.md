@@ -1,0 +1,1 @@
+A new version of the Emma/infoTabby library chatbot written in ChatScript. This bot retains the "personality" of the original Emma but is configured for an academic library.
